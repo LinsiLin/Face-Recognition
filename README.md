@@ -13,7 +13,7 @@ The code contains 3 components:
 •  PCA for learning
 •  Recognition by nearest neighbor classification
 
-![alt text](https://github.com/[Linsi Lin]/[Face-Recognition/result.png?raw=true)
+![alt text](https://github.com/[Linsi Lin]/[Face-Recognition/blob/[main]/result.png?raw=true)
 
 
 Reference: M. Turk, A. Pentland, Eigenfaces for Recognition, Journal of Cognitive Neuroscience, 3(1): 71-86 (1991)

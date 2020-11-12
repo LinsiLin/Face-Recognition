@@ -2,7 +2,7 @@
 ## Matlab Fast Prototyping
 A face recognition system using Eigenface algorithm. 
 
-Data: a set of  32x32 8 bit facial images.
+Data: a set of  32x32 8 bit facial images.<br>
 • ALL = FA+FB (for Training Set) <br>
 • FB: 23 facial images (for Testing Set)<br>
 

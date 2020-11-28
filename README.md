@@ -11,7 +11,7 @@ The code contains 3 components:<br>
 •  PCA for learning<br>
 •  Recognition by nearest neighbor classification<br>
 
-We first read all the training images in the “ALL” file then convert each 32*32 image matrix into a 32*32*1 image vector, 
+We first read all the training images in the “ALL” file then convert each 32 by 32 image matrix into a 32 by 32 by 1 image vector, 
 which is done by the flatten function in the file. Next, we find the mean face and subtract the mean face from every image vector.
 All these different face vectors will be stacked in matrix “AfterSub”. We proceed to calculate the covariance matrix of the above 
 matrix then find both eigenvectors and eigenvalues of the covariance matrix. Then eigenface, which is the basis for the entire 

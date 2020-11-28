@@ -1,4 +1,4 @@
-# Face Recognition by Eigenface
+# Facial Recognition by Eigenface
 ## Matlab Fast Prototyping
 A face recognition system using Eigenface algorithm. 
 
